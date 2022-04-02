@@ -6,8 +6,9 @@ hr {
 	border-color: white;
 	border-style: none;
 	border-top-style: dotted;
-	width: 4%;
 	border-width: 5px;
+	width: 4%;
+
 }
 
 h1 {
